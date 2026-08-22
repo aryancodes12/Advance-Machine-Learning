@@ -118,29 +118,6 @@ This repository contains **7 machine learning notebooks** implementing various r
 
 ---
 
-### 7. **Streamlit Deployment** 🚀
-**File**: `streamlit_salary_prediction_deployment.ipynb`
-
-**Objective**: Deploy salary prediction model as interactive web application
-
-**Tech Stack**: Streamlit, joblib, pandas, numpy
-
-**Features**:
-- User input interface for employee details
-- Real-time salary prediction
-- Model serialization and loading
-
-**Input Parameters**:
-- Age (numeric)
-- Gender (dropdown)
-- Education Level (dropdown)
-- Job Title (dropdown)
-- Years of Experience (numeric)
-
-**Output**: Predicted salary in formatted currency
-
----
-
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
